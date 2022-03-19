@@ -10,12 +10,14 @@ I want to display a starter base website for my portfolio. A Portfolio that can 
 ### Operating Header Tag
 ![Working Header and Nav bar](./assets/readme-images/working-nav.png)
 
-### Image Place Holders 
+### Image Place Holders for Projects
 ![Image placeholders](./assets/readme-images/image-placeholders.png)
 
 ### Contact Me Section 
 ![Contact me section](./assets/readme-images/contact-me-display.png)
 
+### Pseudo Class with a hover affect 
+![Contact me](./assets/readme-images/contact-hover.png)
 
-### Website Functioning while being shrunk 
+### Media Query
 ![Website Functioning](./assets/readme-images/website-functioning.png)
