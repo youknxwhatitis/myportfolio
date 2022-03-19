@@ -10,8 +10,6 @@ I want to display a starter base website for my portfolio. A Portfolio that can 
 ### Operating Header Tag
 ![Working Header and Nav bar](./assets/readme-images/working-nav.png)
 
-
-
 ### Image Place Holders 
 ![Image placeholders](./assets/readme-images/image-placeholders.png)
 

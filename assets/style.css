@@ -30,8 +30,8 @@ header nav ul li {
     margin-right: 25px;
     display:inline-block;
 }
-
-#cmd{
+/* adding a pseudo class for button */
+#cmb{
     width: 250px;
     margin: 0 .5%;
     font-size: 200%;
@@ -42,11 +42,15 @@ header nav ul li {
     font-size:20px;
 }
 
-#cmd:active {
+/* #cmb:active {
     font-size: 200%;
     box-shadow: 0 0 10px #000 inset;
-}
+} */
 
+#cmb:hover {
+    background-color: aqua;
+}
+/*                                    */
 
 #content {
     width:75%;
@@ -97,6 +101,7 @@ section ul li {
     list-style-type: disc;
 }
 
+/* adding a media query for differnt displays to output resolution correctly*/
 @media screen and (max-width: 768px) {
     header, main {
       flex-direction: column;
