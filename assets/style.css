@@ -1,0 +1,103 @@
+body {
+    background-color :aqua;
+}
+
+header {
+    padding:20px; 
+    font-family: 'Roboto Mono', monospace;
+    background-color: aqua;
+    color: black;
+}
+
+header h1 {
+    display:inline-block;
+    font-size:48px;
+}
+
+header nav {
+    padding-top: 20px;
+    margin-right: 20px;
+    float:right;
+    font-family: 'Roboto Mono', monospace;
+    font-size:20px;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    margin-right: 25px;
+    display:inline-block;
+}
+
+#cmd{
+    width: 250px;
+    margin: 0 .5%;
+    font-size: 200%;
+    color: #13293d;
+    background-color: #fff;
+    border: 3px solid #13293d;
+    font-family: 'Roboto Mono', monospace;
+    font-size:20px;
+}
+
+#cmd:active {
+    font-size: 200%;
+    box-shadow: 0 0 10px #000 inset;
+}
+
+
+#content {
+    width:75%;
+    display: inline-block;
+    margin-left: 20px;
+    display:flex-wrap;
+}
+#about-me,
+#contact-me {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Roboto Mono', monospace;
+    background-color:brown;
+    color: black;
+}
+
+#my-projects{
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 700px;
+    font-family: 'Roboto Mono', monospace;
+    background-color:brown;
+    color: black;
+}
+
+#placeholder-1{
+    display:inline-block;
+    margin: 10px auto;
+    max-width: 200px;
+    
+}
+
+#placeholder-2{
+    display:inline-block;
+    margin: 10px auto;
+    max-width: 200px;
+    
+}
+
+#placeholder-3{
+    display:inline-block;
+    margin: 10px auto;
+    max-width: 10px;
+}
+
+section ul li {
+    list-style-type: disc;
+}
+
+@media screen and (max-width: 768px) {
+    header, main {
+      flex-direction: column;
+    }
