@@ -210,7 +210,11 @@ section ul li {
 }
 
 /* adding a media query for differnt displays to output resolution correctly*/
+
+
 @media screen and (max-width: 768px) {
-    header, main {
+    header, main  {
       flex-direction: column;
     }
+  }
+}
