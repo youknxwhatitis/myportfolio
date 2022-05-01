@@ -138,6 +138,10 @@ header nav ul li {
     margin-right: 25px;
     display:inline-block;
 }
+
+.about-me-alignment {
+    align-items: center;
+}
 /* adding a pseudo class for button */
 #cmb{
     width: 250px;
