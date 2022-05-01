@@ -10,8 +10,8 @@ I want to display a starter base website for my portfolio. A Portfolio that can 
 ### Operating Header Tag
 ![Working Header and Nav bar](./assets/readme-images/working-nav.png)
 
-### Image Place Holders for Projects
-![Image placeholders](./assets/readme-images/image-placeholders.png)
+### Project Overview with clickable images to repos
+![Image placeholders](./assets/readme-images/project-overview.png)
 
 ### Contact Me Section 
 ![Contact me section](./assets/readme-images/contact-me-display.png)
@@ -21,3 +21,6 @@ I want to display a starter base website for my portfolio. A Portfolio that can 
 
 ### Media Query
 ![Website Functioning](./assets/readme-images/website-functioning.png)
+
+### Link to deployed website
+https://erickramostorres.netlify.app
